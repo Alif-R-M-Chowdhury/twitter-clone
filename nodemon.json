@@ -1,0 +1,6 @@
+{
+  "watch": [".env", "frontend", "backend"],
+  "ignore": ["logs", "node_modules"],
+  "ext": "js,json",
+  "legacyWatch": true
+}

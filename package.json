@@ -1,0 +1,35 @@
+{
+  "name": "project_2",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000t\u0000w\u0000i\u0000t\u0000t\u0000e\u0000r\u0000-\u0000c\u0000l\u0000o\u0000n\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon backend/server.js",
+    "start": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alif-R-M-Chowdhury/twitter-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Alif-R-M-Chowdhury/twitter-clone/issues"
+  },
+  "homepage": "https://github.com/Alif-R-M-Chowdhury/twitter-clone#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cloudinary": "^2.6.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
